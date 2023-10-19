@@ -1,0 +1,3 @@
+[submodule "OrderingSystemAWS"]
+	path = OrderingSystemAWS
+	url = git@github.com:elvis027/OrderingSystemAWS.git
